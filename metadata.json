@@ -1,0 +1,8 @@
+{
+  "name": "VerdantGrid 3D — Smart Sustainable City Simulator",
+  "description": "Interactive 3D cutaway engineering simulator for a smart sustainable city featuring solar microgrids, air purification towers, smart buildings, green parks, an underground metro rail network, sun-cycle simulation, and an AI city systems assistant.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
